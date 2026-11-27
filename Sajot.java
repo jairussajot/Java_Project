@@ -23,6 +23,7 @@ public class Sajot_methodactivity {
             System.out.printf("The difference of 1 and 2 is %.2f%n", calculate(1,2,'-'));
             System.out.printf("The quotient of 1 and 2 is %.2f%n", calculate(1,2,'/'));
             System.out.printf("The product of 1 and 2 is %.2f%n", calculate(1,2,'*'));
-            System.out.printf("The will produce an error", calculate(1,2,'p'));
-    }
+            System.out.println("hello"));
+            System.out.printf("The will produce an error", calculate(1,2,'p'));	
+	}
 }
